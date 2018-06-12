@@ -3,7 +3,6 @@ pip install --upgrade google-cloud-speech
 pip install --upgrade google-cloud-texttospeech
 pip install --upgrade google-cloud-translate
 
-
 *** second - link your gmail account to the api
 gcloud auth login
 
