@@ -57,4 +57,4 @@ def translate_text(target_lang, text):
 
 
 # EXAMPLE from english to french 
-text_to_speech("fr", "street police and the man that sings")
+text_to_speech("en", "games crib baby toys mister magoo my sister always talks about babys")
